@@ -5,6 +5,7 @@ A Power BI dashboard analyzing candy sales, shipping efficiency the US.
 - Which product divisions have the best profit margin?
 ## Data Model
 <img width="1322" height="1054" alt="Image" src="https://github.com/user-attachments/assets/dd3673b4-2139-4c4b-86ef-3a3831226746" />
+
 | Table         | Description                                                                                                   |
 | ------------- | ------------------------------------------------------------------------------------------------------------- |
 | **Sales**     | Fact table of order-level transactions (dates, customer location, product, sales, cost, gross profit, units). |
