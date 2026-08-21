@@ -1,5 +1,5 @@
 # Candy Distribution Analysis
-A Power BI dashboard analyzing candy sales, shipping efficiency the US.
+A Power BI dashboard analyzing candy sales, shipping efficiency, and factory-to-customer distribution routes across the US.
 ## Business Questions
 - What are the most / least efficient factory-to-customer shipping routes?
 - Which product divisions have the best profit margin?
