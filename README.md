@@ -16,9 +16,13 @@ A Power BI dashboard analyzing candy sales, shipping efficiency the US.
 | **Targets**   | Sales targets by division for 2024.                                                                           |
 ## Dashboard Pages
 1. **Route Efficiency** — Avg shipping distance, avg ship days, and total orders by factory/route, with top 10 most/least efficient routes and a geographic map of shipments.
+
 <img width="1966" height="1084" alt="Image" src="https://github.com/user-attachments/assets/5dec94c0-cacc-4b84-b04f-dda496052b67" />
+
 2. **Product Sales / Margin Analysis** — Profit margin by product and division, price vs. cost comparison, and sales/orders trend over time.
+
 <img width="1962" height="1082" alt="Image" src="https://github.com/user-attachments/assets/a3a2c639-4b9b-4b5e-8d1c-fec757f5c5fa" />
+
 ## Key Calculations
 - **Distance (km)**: Haversine distance between a factory's coordinates and a customer's zip code coordinates, calculated per Sales row.
 - **Shipping Efficiency Score** = Total Gross Profit ÷ Avg Distance: Measure the economic efficiency of a route or factory.
